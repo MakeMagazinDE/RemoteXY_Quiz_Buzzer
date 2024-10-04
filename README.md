@@ -10,6 +10,6 @@ Maker Media GmbH
 
 ![Aufmacherbild aus dem Heft](./banner_quiz_buzzer.jpg)
 
-Ergänzend zum Artikel in der Make 6/24 findet ihr hier die Pläne und den Code für die Quiz-Buzzer.
+Ergänzend zum Artikel in der Make 6/24 befinden sich hier die Pläne und der Code für die Quiz-Buzzer zum Download.
 
 Den vollständigen Artikel kann man in der **[Make-Ausgabe 6/24](https://www.heise.de/select/make/2024/6)** lesen.
